@@ -1,1 +1,1 @@
-# html_widget-extension
+# HTML Widget Extension
