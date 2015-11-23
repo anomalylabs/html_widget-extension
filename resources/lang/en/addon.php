@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'title'       => 'Html Widget-extension',
-    'name'        => 'Html Widget-extension Extension',
-    'description' => ''
+    'title'       => 'Html',
+    'name'        => 'Html Dashboard Widget',
+    'description' => 'A freestanding HTML widget for the Dashboard module.'
 ];
