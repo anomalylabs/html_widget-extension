@@ -17,6 +17,11 @@
             "role": "Owner"
         }
     ],
+    "require": {
+        "anomaly/streams-platform": "~1.1",
+        "anomaly/dashboard-module": "~2.1",
+        "anomaly/configuration-module": "~2.1"
+    },
     "support": {
         "email": "support@anomaly.is"
     },
