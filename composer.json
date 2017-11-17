@@ -22,8 +22,12 @@
             "homepage": "http://ryanthepyro.com/",
             "role": "Owner"
         }
-    ],    "support": {
+    ],
+    "support": {
         "email": "support@pyrocms.com"
+    },
+    "require": {
+        "anomaly/dashboard-module": "^2.2"
     },
     "autoload": {
         "psr-4": {
