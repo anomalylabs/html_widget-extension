@@ -1,17 +1,9 @@
 <?php namespace Anomaly\HtmlWidgetExtension;
 
+use Anomaly\HtmlWidgetExtension\Command\LoadWidget;
 use Anomaly\DashboardModule\Widget\Contract\WidgetInterface;
 use Anomaly\DashboardModule\Widget\Extension\WidgetExtension;
-use Anomaly\HtmlWidgetExtension\Command\LoadWidget;
 
-/**
- * Class HtmlWidgetExtension
- *
- * @link          http://anomaly.is/streams-platform
- * @author        AnomalyLabs, Inc. <hello@anomaly.is>
- * @author        Ryan Thompson <ryan@anomaly.is>
- * @package       Anomaly\HtmlWidgetExtension
- */
 class HtmlWidgetExtension extends WidgetExtension
 {
 
