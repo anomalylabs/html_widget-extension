@@ -35,7 +35,7 @@ class LoadWidget
 
         /* @var EditorFieldTypePresenter $presenter */
         if ($presenter = $html->getFieldTypePresenter('value')) {
-            $this->widget->addData('html', $presenter->parsed());
+            $this->widget->addData('html', $presenter->render());
         }
     }
 
